@@ -13,7 +13,7 @@ from datetime import datetime
 API_ID = 22091901
 API_HASH = "54b0cd5fb47a40265b197f1a110b20b8"
 SESSION = "telebot"
-OWNER_ID = 5811783004
+OWNER_ID = 8563204335
 
 # SANGMATA BOTS FOR NAME HISTORY
 SANGMATA_BOTS = ["@SangMata_BOT", "@SangMata_beta_bot"]
